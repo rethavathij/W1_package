@@ -1,0 +1,13 @@
+
+.cache/*
+.bashrc
+.claude/*
+.config/*
+.dbclient/*
+.local/*
+.npm/*
+.voc/*
+__pycache__/*
+*.pyc
+.vscode/*
+
